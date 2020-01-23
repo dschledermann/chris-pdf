@@ -1,0 +1,5 @@
+vendor/
+src/test1.docx
+src/test1.pdf
+*~
+.idea

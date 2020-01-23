@@ -1,0 +1,17 @@
+{
+    "name": "daniel/chris-pdf",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "authors": [
+        {
+            "name": "Daniel Schledermann",
+            "email": "daniel@schledermann.net"
+        }
+    ],
+    "require": {
+        "phpoffice/phpword": "^0.17.0",
+        "tecnickcom/tcpdf": "^6.3"
+    }
+}
